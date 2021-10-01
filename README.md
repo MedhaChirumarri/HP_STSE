@@ -16,4 +16,19 @@ The project involves  “Web application for online application with following f
 
 Technology: LAMP\
 Requirements: python 3, MySQL, apache webserver, HTML, CSS, PHP
+\
+Heroku link: https://hp-stse.herokuapp.com/front_page.php 
+
+Watch the project video by clicking at the link:
+[Video](https://www.youtube.com/watch?v=cBosgEEA--Y)
+
+## How to Use ?
+1. Student:login with registered account and download admit card.
+
+2. Admin:login with registered account and upload files.
+
+3. Principle:login with registered account and download files uploaded by admin.
+
+For more information see [Wiki](https://github.com/keerthi62/HP-STSE/wiki) page.
+
 
